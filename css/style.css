@@ -617,3 +617,103 @@ transition: all 400ms ease;
 .social-network{
     display: inline-flex;
 }
+
+.news-bar {
+    background-color: #111;
+}
+
+.news-bar {
+    padding: 8px 0 8px 0;
+    font-size: 14px;
+    color: #e3e3e3;
+}
+
+.widget-title-news {
+    border-bottom: 2px solid #ff4444;
+}
+.widget-title-news {
+    border-bottom: 2px solid #ff4444;
+    font-size: 18px;
+    margin-bottom: 15px;
+    padding-bottom: 0;
+}
+
+.widget-title-news span {
+    background-color: #ff4444;
+    color: #fff;
+    padding: 9px;
+    display: inline-block;
+}
+
+.notice-news{
+  border-bottom-color: #ff4444;
+    border-bottom: 2px solid #ff4444;
+}
+
+.widget-title-web {
+    border-bottom: 2px solid #33b5e5;
+}
+.widget-title-web {
+    border-bottom: 2px solid #33b5e5;
+    font-size: 18px;
+    margin-bottom: 15px;
+    padding-bottom: 0;
+}
+
+.widget-title-web span {
+    background-color: #33b5e5;
+    color: #fff;
+    padding: 9px;
+    display: inline-block;
+}
+
+.notice-web{
+  border-bottom-color: #33b5e5;
+    border-bottom: 3px solid #33b5e5;
+}
+
+.widget-title-aside {
+    border-bottom: 2px solid #aa66cc;
+}
+.widget-title-aside {
+    border-bottom: 2px solid #aa66cc;
+    font-size: 18px;
+    margin-bottom: 15px;
+    padding-bottom: 0;
+}
+
+.widget-title-aside span {
+    background-color: #aa66cc;
+    color: #fff;
+    padding: 9px;
+    display: inline-block;
+}
+
+.notice-aside{
+  border-bottom-color: #aa66cc;
+    border-bottom: 3px solid #aa66cc;
+}
+
+.follow-us li{
+  margin: 10px;
+}
+
+.follow-us li a{
+  color: #666;
+}
+
+.follow-us li .fa-youtube-play:hover{
+  color: #CD201F;
+}
+
+.follow-us li .fa-github:hover{
+  color: #333;
+}
+
+.follow-us li .fa-facebook:hover{
+  color: #3B5998;
+}
+
+.follow-us li .fa-twitter:hover{
+  color: #55ACEE;
+}
