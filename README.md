@@ -11,6 +11,6 @@ Description: A landing page for our organization
 Version: 1.0
 
 
-## You can see how page works here: https://github.com/PenguinRepublic/Geekguin
+## You can see how page works here: http://penguinrepublic.github.io/Geekguin/
 
 ![Penguin](https://github.com/PenguinRepublic/Geekguin/blob/master/img/ourwork.png)
