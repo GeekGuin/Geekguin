@@ -717,3 +717,11 @@ transition: all 400ms ease;
 .follow-us li .fa-twitter:hover{
   color: #55ACEE;
 }
+
+.pagination>.active>a, .pagination>.active>span, .pagination>.active>a:hover, .pagination>.active>span:hover, .pagination>.active>a:focus, .pagination>.active>span:focus {
+    z-index: 2;
+    color: #fff;
+    background-color: #CC0000;
+    border-color: #CC0000;
+    cursor: default;
+}
