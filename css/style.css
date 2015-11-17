@@ -383,15 +383,6 @@ transition: all 400ms ease;
     padding-bottom: 15px;
 }
 
-
-
-
-
-
-
-
-
-
 .drop {
   display: block;
   position: absolute;
@@ -769,3 +760,4 @@ transition: all 400ms ease;
 .card_action{
   text-align: right;
 }
+
