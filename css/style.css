@@ -761,3 +761,6 @@ transition: all 400ms ease;
   text-align: right;
 }
 
+.social-media li a{
+  color: #333333;
+}
